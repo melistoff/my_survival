@@ -1,0 +1,23 @@
+{
+  "name": "my_survival",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melistoff/my_survival.git"
+  },
+  "author": "Melistof (sg4asite@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/melistoff/my_survival/issues"
+  },
+  "homepage": "https://github.com/melistoff/my_survival#readme",
+  "dependencies": {
+    "phaser": "^2.6.2"
+  }
+}
